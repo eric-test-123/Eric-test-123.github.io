@@ -1,6 +1,6 @@
 ---
 title: "Best Backpacking Stoves of 2025"
-date: 2025-05-16
+date: 2025-05-20
 categories: gear cooking
 ---
 
